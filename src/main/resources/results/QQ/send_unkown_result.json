@@ -1,0 +1,23 @@
+[
+	{
+		"number":10,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=13ec36159fbb7f45&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"464",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		},
+		"bodyParams":{
+			"��\"<�\u0006��a-yϞ��5��\u0018u�\u0001��\u0010��\u0015j�\u000B���\u0010#��\u0012�NQ�ΌL��1��BL%�\u0014�Z\u0001�L�U\u0005�\u001A��":"���:I\u001A!�Z�c+\u0010\u0016��xw<Q���Ѝd�����t���"
+		}
+	}
+]

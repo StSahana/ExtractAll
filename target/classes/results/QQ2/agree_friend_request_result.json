@@ -1,0 +1,38 @@
+[
+	{
+		"number":397,
+		"method":"GET",
+		"url":" 183.3.234.212/g?b=qq&k=ibmw3c4e9ib1VJJp6YczKicXQ&s=140&mType=QQHeadIcon&t=1503474508825",
+		"header":{
+			"host":" 183.3.234.212",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474508825",
+			"k":"ibmw3c4e9ib1VJJp6YczKicXQ",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":422,
+		"method":"GET",
+		"url":" 183.3.234.212/g?b=qq&k=bbkVjukLGfKrZ5rlgZXibKg&s=140&mType=QQHeadIcon&t=1503474510490",
+		"header":{
+			"host":" 183.3.234.212",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474510490",
+			"k":"bbkVjukLGfKrZ5rlgZXibKg",
+			"mType":"QQHeadIcon"
+		}
+	}
+]

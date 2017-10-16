@@ -1,0 +1,19 @@
+[
+	{
+		"number":18,
+		"method":"GET",
+		"url":"shouji.sogou.com/web_ime/mobile.php?durtot=0&h=862514038245244&r=android_oem_meizu_open&v=2.1&fc=1",
+		"header":{
+			"content-length":"63",
+			"host":"shouji.sogou.com",
+			"connection":"Keep-Alive"
+		},
+		"urlParams":{
+			"durtot":"0",
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"h":"862514038245244",
+			"fc":"1"
+		}
+	}
+]

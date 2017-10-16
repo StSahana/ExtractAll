@@ -1,0 +1,58 @@
+[
+	{
+		"number":47,
+		"method":"GET",
+		"url":" sqimg.qq.com/QQiPhoneAV/AVFunChat/AVFilter/Android/20170518/COMIC.zip?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":59,
+		"method":"GET",
+		"url":" sqimg.qq.com/QQiPhoneAV/AVFunChat/AVFilter/Android/20170518/GESE.zip?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":420,
+		"method":"GET",
+		"url":" sqimg.qq.com/QQiPhoneAV/AVFunChat/AVFilter/Android/20170518/BRIGHTFIRE.zip?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":1543,
+		"method":"GET",
+		"url":" sqimg.qq.com/QQiPhoneAV/AVFunChat/AVFilter/Android/20170518/SKYLINE.zip?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	}
+]

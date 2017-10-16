@@ -1,0 +1,344 @@
+[
+	{
+		"number":17,
+		"method":"GET",
+		"url":"android.rqd.qq.com/analytics/async?aid=595a5350-c4c0-471f-aff6-7b8012273371",
+		"header":{
+			"content-length":"930",
+			"rakey":"WeYGcc5E8iheGtRX5QvguM5St70fCpOREmF2iztZpC%2BJR2F0GuqY%2FmdNl10oMDhWqFDErQdtxcEN%0AvMrKoCum17UYlaqf6kEkMZxWFki2P8jHH3ak3g34vHY%2BTbh3CTYwWmnKuJsYV7I7gN7kX4nR9AgG%0AIlyJVRRfOqGfu110gW0%3D%0A",
+			"a37":"WIFI",
+			"appver":"7.1.8.718",
+			"a38":"WIFI",
+			"bundleid":"com.tencent.mobileqq",
+			"strategylastupdatetime":"0",
+			"platformid":"1",
+			"prodid":"com.tencent.mobileqq",
+			"host":"android.rqd.qq.com",
+			"sdkver":"2.5.1",
+			"content-type":"application/x-www-form-urlencoded",
+			"connection":"Keep-Alive",
+			"cmd":"840",
+			"wup_version":"3.0",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"aid":"595a5350-c4c0-471f-aff6-7b8012273371"
+		},
+		"bodyParams":{
+			"\u0010�\b0<���IT8�5�Ĩ��s�V1��\b^��\u001D�]\u0007�ۣ#e�/��d�3�0�Iz���":"�\n���\\�\u0002;f\u0010Dr#u>rS��*���\u001E�n·\ffM;�����.��RݏJ�>��я����?]��M\u0014�\u001A\u00151�\u0014����\r��\u0002�k˯ד���Y \bFQ!��\u00077\u001AA^�T�\u0005�-\u0004m/��8c\u0000��T\u0001+\u0005~�\u0001\n�th�l��U\u001E͛ǾQ�\u001D�6U�_�^�\u0018o\\s���\u000Bu@����C��\u001A�\"hj~�5׋�\u0012H���v�\u0019A�2R�\u000Fza�\fC\u001B5�'P��b�Xю�B�$��,�`�X�8\u001FY@�͔v���A\u0014�%�\u0016�^���\u0011+1�?�\u001F\u0012{��;�K�~����7z\u0015���{��\u001A���\u001E@{)L�h3u��|]\u0001�\u0000 b\tX~�\f�u��FᲬ���X@�ߞ���G�1K\u001Eq,\u000ENM$\u0000\"t����>q�\u007F<V\u001C",
+			"\u0007Gj�~�qb��}W\u0007/��\u000B\u000Fφ��\u001B�B��\u0018\u001C�0�F�i�#ͭ�?o`�\u001ACٙ��\u001Bn6\n�R*أǇ�{\u001BDVX�4A!O�":"]�i��@�{�I��\u0006X\t����\u0004�\u001D\u001D����\u001D\u001A\u000E��\u0017�ݖ�<\u0016�H�QN�\u0013T^�m\u0013o~�\u0019C��D\u0004X��"
+		}
+	},
+	{
+		"number":98,
+		"method":"GET",
+		"url":" q.qlogo.cn/g?b=qq&k=SP5du7ZDABRuBaiayIPWIvg&s=140&mType=QQHeadIcon&t=1503475388972",
+		"header":{
+			"host":" q.qlogo.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503475388972",
+			"k":"SP5du7ZDABRuBaiayIPWIvg",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":101,
+		"method":"GET",
+		"url":" p.qlogo.cn/gh/651573606/651573606/100?mType=QQHeadIcon&t=1503475388951",
+		"header":{
+			"host":" p.qlogo.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"t":"1503475388951",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":144,
+		"method":"GET",
+		"url":" zyjc.sec.qq.com/reportFixer.php?paramStr=L3BieaisRwRzJw%2BaFfPvzRIg3eoVeSFMuFbjyeWOxmSIhJbSEAiWQ7e1R2GR3wsNRhME1b2o92p7BiIYpFiuOBaCbqGElAbbbKNupzKO6REKj1Neig4gxruXzci3BZ%2F9UU62IbMjc0Z7mQq93YNBFxXYczPCUDhS2GZisMcOPld1hUIOtIh7jbcnqKngv9nyk5YmSX8q%2BOGQKYwUNU9Djxo5aUrNLnY0dDhUBfWgsaHjxD3c6wSEKPmezbqXs1PLh%2FN9zd1ATTXuUM01pWvHmner4Zuc3mmG%2F%2BtyzHs0RmSxk1qnEv%2BZ4LXoO7HXMXBl3kwDSX9lIlKElOaN55r9K4a8PRw8q9o4W6XOUyIEUH2Q%2BbN04tlttu3OnLFLfrt%2B%2FgMLmSrL1qgP5jRIZWRASg%2BruR8HJRhw%2FfZy90WfkouwCY%2BoI5FtadA6vB9Vb0JOzMsFrpUkbz9nEI1b8Z3xM4top24nWHp7fPcfFn7eiz3HPb6DaIU2HiC9sKoXf0uC7Mx8RZNnx7HsyGNFLzfeqH0n%2FfNScmGnLjeoKjHi6t7YzbQbLFcPCMfjlxO72EHQvoQsbFDBqHYPajn7k5pudUFGm9SZQKf6U4v3m%2FjM0CZYTfHX5gPyr5tgcV2VCHkVj3LrRJMRKCbzFMeVLIxI6uaMbs6mzLEP8vnEqvvcHYbjGW1xwtLJPybU6lDDjVUzBM2e30KjATIdvFs2NanpFQpgJzCTImOb1CYlHbtVbHaTmLdp%2FIqXDbgiBRouCr4rpLY4JjSEqlI2GH1839JIsG6yz84gshVSRDH8s35IcL9A%2FWDlfpdcnAh7%2F0BcfS53xfbUxZWvKSMxUZKgQBbMtQ%3D%3D&key=LNfgO3L%2BAFKQinVYC03HuGCfaRsm%2BrNvyJDpTMfN6Bn6%2FUYk92pevYLpYL4eiilnjInmu47YkHuhi6kyjyJkHLaXl26H3CWijr8SPdHo4US4czDs46RtLOiyhXV9vRXZCYCYlc4T72Mg6Godxu2CqnAPerLNSMKMcpkoHG9vsNo%3D&visibility=2",
+		"header":{
+			"host":" zyjc.sec.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"visibility":"2",
+			"paramStr":"L3BieaisRwRzJw%2BaFfPvzRIg3eoVeSFMuFbjyeWOxmSIhJbSEAiWQ7e1R2GR3wsNRhME1b2o92p7BiIYpFiuOBaCbqGElAbbbKNupzKO6REKj1Neig4gxruXzci3BZ%2F9UU62IbMjc0Z7mQq93YNBFxXYczPCUDhS2GZisMcOPld1hUIOtIh7jbcnqKngv9nyk5YmSX8q%2BOGQKYwUNU9Djxo5aUrNLnY0dDhUBfWgsaHjxD3c6wSEKPmezbqXs1PLh%2FN9zd1ATTXuUM01pWvHmner4Zuc3mmG%2F%2BtyzHs0RmSxk1qnEv%2BZ4LXoO7HXMXBl3kwDSX9lIlKElOaN55r9K4a8PRw8q9o4W6XOUyIEUH2Q%2BbN04tlttu3OnLFLfrt%2B%2FgMLmSrL1qgP5jRIZWRASg%2BruR8HJRhw%2FfZy90WfkouwCY%2BoI5FtadA6vB9Vb0JOzMsFrpUkbz9nEI1b8Z3xM4top24nWHp7fPcfFn7eiz3HPb6DaIU2HiC9sKoXf0uC7Mx8RZNnx7HsyGNFLzfeqH0n%2FfNScmGnLjeoKjHi6t7YzbQbLFcPCMfjlxO72EHQvoQsbFDBqHYPajn7k5pudUFGm9SZQKf6U4v3m%2FjM0CZYTfHX5gPyr5tgcV2VCHkVj3LrRJMRKCbzFMeVLIxI6uaMbs6mzLEP8vnEqvvcHYbjGW1xwtLJPybU6lDDjVUzBM2e30KjATIdvFs2NanpFQpgJzCTImOb1CYlHbtVbHaTmLdp%2FIqXDbgiBRouCr4rpLY4JjSEqlI2GH1839JIsG6yz84gshVSRDH8s35IcL9A%2FWDlfpdcnAh7%2F0BcfS53xfbUxZWvKSMxUZKgQBbMtQ%3D%3D",
+			"key":"LNfgO3L%2BAFKQinVYC03HuGCfaRsm%2BrNvyJDpTMfN6Bn6%2FUYk92pevYLpYL4eiilnjInmu47YkHuhi6kyjyJkHLaXl26H3CWijr8SPdHo4US4czDs46RtLOiyhXV9vRXZCYCYlc4T72Mg6Godxu2CqnAPerLNSMKMcpkoHG9vsNo%3D"
+		}
+	},
+	{
+		"number":261,
+		"method":"GET",
+		"url":" imgcache.qq.com/qqshow/admindata/comdata/vipList_signature_data/xydata.v2.json?mType=VIP_sig_cfg",
+		"header":{
+			"host":" imgcache.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip"
+		},
+		"urlParams":{
+			"mType":"VIP_sig_cfg"
+		}
+	},
+	{
+		"number":382,
+		"method":"GET",
+		"url":" 182.254.116.117/d?dn=m.qpic.cn&ttl=1",
+		"header":{
+			"host":" 182.254.116.117",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"dn":"m.qpic.cn",
+			"ttl":"1"
+		}
+	},
+	{
+		"number":784,
+		"method":"GET",
+		"url":"zhizi.qq.com/json.php",
+		"header":{
+			"content-length":"296",
+			"host":"zhizi.qq.com",
+			"content-type":"application/json",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"bodyParams":{
+			"dmc":"0",
+			"{\"minidumpdata\":{\"vcname\":\"-1\",\"singleMemory\":\"-1\",\"threshold\":\"-1\"},\"clientinfo\":{\"p_id\":\"1\",\"processname\":\"com.tencent.mobileqq\",\"plugin\":\"9\",\"versionname\":\"V 7.1.8.718\",\"uin\":\"3583778224\",\"model\":\"MI 5\",\"os\":\"7.0\",\"rdmuuid\":\"5aa17a26-ae3f-4f5e-a886-b07acc38d0e2\"},\"context\":\"fc":"3",
+			"\"}POST /json.php HTTP/1.1\r\nContent-Type: application/json\r\nUser-Agent: Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)\r\nHost: zhizi.qq.com\r\nConnection: Keep-Alive\r\nAccept-Encoding: gzip\r\nContent-Length: 296\r\n\r\n{\"minidumpdata\":{\"vcname\":\"-1\",\"singleMemory\":\"-1\",\"threshold\":\"-1\"},\"clientinfo\":{\"p_id\":\"1\",\"processname\":\"com.tencent.mobileqq\",\"plugin\":\"9\",\"versionname\":\"V 7.1.8.718\",\"uin\":\"3583778224\",\"model\":\"MI 5\",\"os\":\"7.0\",\"rdmuuid\":\"5aa17a26-ae3f-4f5e-a886-b07acc38d0e2\"},\"context\":\"fc":"3",
+			"dc":"0"
+		}
+	},
+	{
+		"number":509,
+		"method":"GET",
+		"url":" commdata.v.qq.com/commdatav2?cmd=51&so_name=TvkPlugin&so_ver=V0.0.0.0&app_id=000&sdk_version=V4.2.000.0062",
+		"header":{
+			"host":" commdata.v.qq.com",
+			"connection":" Keep-Alive",
+			"user-agent":" Apache-HttpClient/UNAVAILABLE (java 1.4)"
+		},
+		"urlParams":{
+			"so_ver":"V0.0.0.0",
+			"sdk_version":"V4.2.000.0062",
+			"so_name":"TvkPlugin",
+			"cmd":"51",
+			"app_id":"000"
+		}
+	},
+	{
+		"number":526,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/f/765/rich_status20160516_2026addTV.xml?mType=ConfigCheck",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"ConfigCheck"
+		}
+	},
+	{
+		"number":527,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/f/911/FileOnlinePreviewConfigV2.plist?mType=ConfigCheck",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip,deflate",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"mType":"ConfigCheck"
+		}
+	},
+	{
+		"number":850,
+		"method":"GET",
+		"url":" dl.url.cn/qq_desk/f/843/citylist_id2str.txt?mType=ConfigCheck",
+		"header":{
+			"host":" dl.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"ConfigCheck"
+		}
+	},
+	{
+		"number":851,
+		"method":"GET",
+		"url":" dl.url.cn/qq_desk/f/888/qq_safe_jump_whitelist.zip?mType=ConfigCheck",
+		"header":{
+			"host":" dl.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"ConfigCheck"
+		}
+	},
+	{
+		"number":1775,
+		"method":"GET",
+		"url":" mqqadr.reader.qq.com/v5/queryPrefer?skey=MGtUVnp0dd&needBookInfo=0",
+		"header":{
+			"cookie":" o_cookie=3583778224;uin=o003583778224; skey=MGtUVnp0dd",
+			"host":" mqqadr.reader.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"skey":"MGtUVnp0dd",
+			"needBookInfo":"0"
+		}
+	},
+	{
+		"number":1913,
+		"method":"GET",
+		"url":" imgcache.qq.com/club/mobile/profile/summary_card/summary_card_lable_1418204880.json?mType=VIP_profilecard",
+		"header":{
+			"host":" imgcache.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip"
+		},
+		"urlParams":{
+			"mType":"VIP_profilecard"
+		}
+	},
+	{
+		"number":2432,
+		"method":"GET",
+		"url":" info.gamecenter.qq.com/cgi-bin/gc_pre_download_async_fcgi?param={%22key%22:{%22param%22:{%22qq_version%22:%227.1.8.3240%22},%22module%22:%22gc_pre_download%22,%22method%22:%22get_pre_download%22}}&mType=VIP_GameCenter&g_tk=686420206",
+		"header":{
+			"cookie":" uin=o3583778224; skey=MGtUVnp0dd;",
+			"host":" info.gamecenter.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"param":"{%22key%22:{%22param%22:{%22qq_version%22:%227.1.8.3240%22},%22module%22:%22gc_pre_download%22,%22method%22:%22get_pre_download%22}}",
+			"mType":"VIP_GameCenter",
+			"g_tk":"686420206"
+		}
+	},
+	{
+		"number":3032,
+		"method":"GET",
+		"url":" i.gtimg.cn/club/item/parcel/client_wording.json?mType=VIP_emosm",
+		"header":{
+			"host":" i.gtimg.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip"
+		},
+		"urlParams":{
+			"mType":"VIP_emosm"
+		}
+	},
+	{
+		"number":3117,
+		"method":"GET",
+		"url":" i.gtimg.cn/qqshow/admindata/comdata/vipData_individuation/xydata.json?mType=VIP_emosm",
+		"header":{
+			"host":" i.gtimg.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip"
+		},
+		"urlParams":{
+			"mType":"VIP_emosm"
+		}
+	},
+	{
+		"number":3362,
+		"method":"GET",
+		"url":" i.gtimg.cn/qqshow/admindata/comdata/vipData_emoji_aioPanal/xydata.json?mType=VIP_emosm",
+		"header":{
+			"host":" i.gtimg.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip"
+		},
+		"urlParams":{
+			"mType":"VIP_emosm"
+		}
+	},
+	{
+		"number":3698,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/f/835/Android_20170705_1507.zip?mType=ConfigCheck",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"ConfigCheck"
+		}
+	},
+	{
+		"number":4311,
+		"method":"GET",
+		"url":"lbs.map.qq.com/loc?c=1&mars=1&obs=1",
+		"header":{
+			"x-tx-host":"lbs.map.qq.com",
+			"content-length":"463",
+			"halley-sdk":"sdk:1.6.4.1101key:08C1B1446B60CD251D662D89122F1D8A-0",
+			"host":"lbs.map.qq.com",
+			"content-type":"application/x-www-form-urlencoded",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/1.6.0 (Linux; U; Android 4.4; Nexus 5 Build/KRT16M)"
+		},
+		"urlParams":{
+			"obs":"1",
+			"c":"1",
+			"mars":"1"
+		},
+		"bodyParams":{
+			"Żn�~\u001Dϧ��\f��\u0007��������s7���(�\u0010h\u0005x�>�\u0006<Eֳ\u0011�.v{\u0017�y���4��؈�K�\u0002s_I��\u000EE\u0013-2�\b�VF\u0013��$D�":"\nNo\u001B�\u0018N��/�A����3/�EOK�\u0011\u001C �Q�/M]~�zg�5�\u001A<�\u0018b�̞��-/��VWA"
+		}
+	},
+	{
+		"number":5005,
+		"method":"GET",
+		"url":" sqimg.qq.com/QQiPhoneAV/AVFunChat/AVBeauty/Android/20170518/SKINCOLOR.zip?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":5566,
+		"method":"GET",
+		"url":" sqimg.qq.com/qq_product_operations/mobile/yy/wmyoffice/remark/applite0.png?v=0.95934521503475393975",
+		"header":{
+			"host":" sqimg.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"v":"0.95934521503475393975"
+		}
+	}
+]

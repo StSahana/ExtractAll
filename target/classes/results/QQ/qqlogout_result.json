@@ -1,0 +1,238 @@
+[
+	{
+		"number":20,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/youxi_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":22,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/f/3504/fudao_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":38,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/xinwen_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":39,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/remenhuodong_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":52,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/ketang_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":53,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/chihewanle_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":54,
+		"method":"GET",
+		"url":" dl.url.cn/qq_desk/f/905/fuli_20140629_64.png?mType=Dynamic",
+		"header":{
+			"host":" dl.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":70,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/kandian_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":76,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/yundong_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":77,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/zhibo_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":91,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/yinyue_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":100,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/f/1113/dongman64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":109,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/yuedu_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":115,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/tongchengfuwu_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":130,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/riji_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":135,
+		"method":"GET",
+		"url":" d.url.cn/myapp/qq_desk/qq_term/TEST/new_icon/trends_pic/gouwu_64x64.png?mType=Dynamic",
+		"header":{
+			"host":" d.url.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"mType":"Dynamic"
+		}
+	},
+	{
+		"number":212,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=272cb3f9ba4bb6ac&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"1616",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		},
+		"bodyParams":{
+			"�#�\u0000�\\��C��Q���^p�k��׉�\u0019\r�\u001F^}�\u0010�ѳvo��0|\u0006�����N�\u0016Ief\u001F�\u001F �;�I�\u0011%�aEf�C��#h�����p:���a���6��k���*i�\u001C�s�5��9�|+\"Z�\u007F��10j�@u�\u0010 :q�ȭb`J�F��1��\u0014ӅB1�[;�h��~��Y\u0003��hn{��yr\"\u0003����q\u001Bm\u0006�d؃/��\u0000\u001C\u001C}\u0002Po���@��rxc�*U�\t\u00170\u0017���7\u0003���Q�~*C�ԭ�\u000FgX�S{��r\u0013Jg@�:�\u0017���#�\u000B�\u007F�\u0010\u0006W�3-��^��\u000F�2\u0002\u0005�*�8�7\u0015��B<{�r7\u0000��3a\u0019����%�6h\t\u0006\u001A\u0000�(�B��ي*�tK<\u0004i��R\u0018R�3�7!�S�\u001A�w���G@c��Q�>��_Ss3�\u0003x":"+c��,�ఉ\u001BӎA�������N",
+			"r\u0018w���e}�\u00103-�\u0002N��k�*ո�<��O(Y+��!�\u0017�����\u001D:B�U�)\u0011�\"��B$5[��T�����6�\u0019b����\u007F\u007Fea�g4�׫���2~������Q\u0003.�\u0011�\b���3.]�e4K��\f���ǁz�/j[�\u001F������ @�H���\u0007���ٹ,���jT\u0001�f���m�K\\Ě\u0010��\t��U(K\u0005�Ec\u0000D�!�[�w{�\u001F���4�o�%i�ޱ�DK��Q�)J\u0013��]K���[�7+�\r;���\u0014��{�\"��?SM��:Q��\u0014�e��\u0006\u001E����O�;":"m�vF^\u001F�Ƒ6e:�$b\u0013��Y\u0004f�s� ��u\\�U\u000B���a\u0003W����"
+		}
+	},
+	{
+		"number":264,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=ad356d052774e3c7&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"624",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		},
+		"bodyParams":{
+			"6\"%�\u0016b>�\n����e�\u000B��/ut��[�ϝ�\u000E����f%��k�ؾ$ڃ3w��/z�0�F�LD?\u00166\u0001�\u000E訮m�L�\u0014��y_�Φ$�w�\u0000�\u0016V�u\u0002���\u0011!t5cE�\u0010�4�\u0007\u0006L�N��ɒ��\\�\f.�\n�\u000F����#둦mt�ȬLe�vz7���j]�;a~���`��\u0001ː/x�\u001A�\u001E\u0016��\u0005����\u0018|<�\u0002\u000E�h���E\u0014�<�$،�+�r�S�M�]�ވ+�\u0010�?\u0002xO�J�1���P��sp\u000B\u0016���{��s\\��0^\\����|(�\u007F�\u001F��\"ܩ%.K�_M#Y�:}g���\u001C\u0005(8�>��L":"B�V��?�K��\u0010�\u000E�j>@(ٚ����",
+			"\u0018Rz\u001C�3o\u00133,��Ga0�":"7�;�G��\u001E �i��\u0006e\\�|\\��[��w�������@�>F�F\u0004��g����7�\u0011�E1ن^q�\u0004\u001F��\u0010����"
+		}
+	}
+]

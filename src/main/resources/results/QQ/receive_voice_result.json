@@ -1,0 +1,24 @@
+[
+	{
+		"number":5,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=2968898bbb7e9b60&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"704",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		},
+		"bodyParams":{
+			"�\u0015\u0015~\u0015�Ѥ\u0005w�!kĬti�\u0007l��f|���+\u0007��/J���V��\u000Er�4�\u0014�.���4<�k�\u0000�\u001B":"�\u0010\u0003�yȬXX<\t���b�IV0\u007F",
+			"�g_��J���D\f�w�����\u0000�E��\u0011��˜�\u0003�рӃ\u001Bi؉\u007F��HT���\u000F\f\n��;�H\u0018�B�;\u001C��l����@'P2���v�\u001E��e�0��\u0014�a`��ɪ�y\u0005�\u001F\u000E�4�v��Q�\u001CR�DNK�\fm�_\u0013�>\n�ʣ���c-P��\u0002�P���\n\u0005\u0015�m��l�3��c�Z\ni*���w,b�":"�Ր��[.�0c\u0001�ȕ�@��Ve W��\u001Bt\u0004��Y��!9J'nA\u001Cr��@U_C�w\u0013 �7WD�\u0002�:�C�Wb�0�7�[/u�]��\fp��ˈ�\u0013#\u000BY\u0001�V\u001A�\u0017�/p3��>C�\n#�ى\u0016��7��p#�\t�\u0006J��\u0004H�̻ꢰ\\�P�U>�yR��:�����;D����T"
+		}
+	}
+]

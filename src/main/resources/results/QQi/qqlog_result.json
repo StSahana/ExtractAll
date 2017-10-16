@@ -1,0 +1,278 @@
+[
+	{
+		"number":69,
+		"method":"GET",
+		"url":" sqimg.qq.com/expert_qq/cloud/612c158fa40b94aa2303c8739cdc9609.mp4?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"range":" bytes=1495040-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; 1505-A01 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":73,
+		"method":"GET",
+		"url":"uxip.meizu.com/lighttps?ef=O9ARU4TBjaH468X6RCl91ATxnl1VoLyZgF66638YDHczGc%2B1PCExTwUiWxQm7%2FJFdTXcV0asKXPjqEZyq0tpT0ff484hWDi4X%2FCWfbDYT68PhG4bX38mGeFlL9%2B57hJn4zw6H6Y2t9ZWy%2BzuFEXZziTIflKoKvAwytAaty7UEzpdQ3EPQJTI1kPZJSI5HjPtc%2BW24upLyJVwn%2BPH1GKOZg%3D%3D",
+		"header":{
+			"x-s-key":"V1:CI/X8DxTtoRQqq8ORSyUW17L70QJ8zv16Dqkql/StyE=",
+			"charset":"UTF-8",
+			"content-length":"736",
+			"host":"uxip.meizu.com",
+			"connection":"keep-alive",
+			"content-type":"multipart/form-data; boundary=******--212x89--",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"ef":"O9ARU4TBjaH468X6RCl91ATxnl1VoLyZgF66638YDHczGc%2B1PCExTwUiWxQm7%2FJFdTXcV0asKXPjqEZyq0tpT0ff484hWDi4X%2FCWfbDYT68PhG4bX38mGeFlL9%2B57hJn4zw6H6Y2t9ZWy%2BzuFEXZziTIflKoKvAwytAaty7UEzpdQ3EPQJTI1kPZJSI5HjPtc%2BW24upLyJVwn%2BPH1GKOZg%3D%3D"
+		},
+		"bodyParams":{
+			"��.\u0005\u001B\u0016�c9���":"�Ǧ����u$\u007F7����q��oM[휭$|>H:����{��eg���3���K�`3|ʻ\u0019�\u0001�s\\y�Nd]L���%�੠~�/��$!��\u000E�\\\u0019���\u0017/�ͻ\u0017\u0014��r�",
+			"�+l�#\u0006��7�F�T�b�U~�1�����\u0010�XU���\\��\u001E\u001D��X�,\u001F�y\u0016��C��݂?����]��\u007F�.e�@r�\u001BMќ�f1w��s�!���O\f\u000B�rzB\u000B�ɿw���c��z�Ǭ��Z��V�d�\u0011'tĩ��/\tC��H�G\f����zk.2Z��a���\n1q�YD��C���(E��\f��R\fg�c�-31^7ͮR��v\f\b�����#����l�ϟ�\u007F��\u001C�A�6R��}�\\b�z�\u0003�UxE+��\u000Ey�N\u007F�(���\\\u001E\u0003B��":"�[�3\\[�V!0�܏�\u0012\u0010�"
+		}
+	},
+	{
+		"number":142,
+		"method":"GET",
+		"url":"configsvr.msf.3g.qq.com/configsvr/serverlist.jsp?mType=getssolist",
+		"header":{
+			"content-length":"136",
+			"host":"configsvr.msf.3g.qq.com",
+			"content-type":"application/x-www-form-urlencoded",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"getssolist"
+		}
+	},
+	{
+		"number":163,
+		"method":"GET",
+		"url":"monitor.uu.qq.com/analytics/upload",
+		"header":{
+			"content-length":"473",
+			"host":"monitor.uu.qq.com",
+			"connection":"Keep-Alive",
+			"wup_version":"3.0"
+		},
+		"bodyParams":{
+			"\n5.2.1.60706\u0014com.tencent.feedbackF\u00051.8.5Q\u0000�m\u0000\u0001\u0000�4\u001A�@c~牂K`�(�)�\u0010Tdk\u0000B�5�1�\f�N�f�S�\u001Cg�O�w�L\u001A��u�u�\u0016d\u0000]��\u001Bٰ҅,>��\u0010\u001A<���\u0005�\r�>��KpP��۞���\u0006�{��Œ�ǽ��i�:�t\u0014�S+\u000FQQ\u001E/�\u0014��0�I\fyj\u0003\f���K������+q/":"�\u0003.���-q�M��ۥ\t������\t�p��I�\u0015\u000Fe7����\u0013�"
+		}
+	},
+	{
+		"number":812,
+		"method":"GET",
+		"url":"wifi.ggsafe.com/ad/popad.php",
+		"header":{
+			"content-length":"81",
+			"host":"wifi.ggsafe.com",
+			"content-type":"pplication/json",
+			"user-agent":"libcurl-agent/1.0",
+			"accept":"*/*"
+		},
+		"bodyParams":{
+			"from_type":2,
+			"ver":"2.4.0.5",
+			"from_id":672763424,
+			"cmd":"SyncAdvertWindowInfo"
+		}
+	},
+	{
+		"number":904,
+		"method":"GET",
+		"url":"log1.wtlogin.qq.com/cgi-bin/wlogin_proxy_log",
+		"header":{
+			"content-length":"440",
+			"content-disposition":"attachment; filename=micromsgresp.dat",
+			"host":"log1.wtlogin.qq.com",
+			"content-type":"application/octet-stream",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"bodyParams":{
+			"�\\fw\u0019\u0015��-�[ǋ˹،��fu\u0007�XEbf��\"�X�G�\u001CT��J�\r�-3�����\u0019�Ǆq����t�<����l�M.�zש��;\u0000�]�\u00025V��\t*뾎b":"jFh\u000Etԭ\u0012�xF",
+			"L\u0014�\u0016��Dp�\r�X!�":"����\u0007�9�0Dڎr�\u0012Ǌ\u001C0\u0007b�+�\\S�R"
+		}
+	},
+	{
+		"number":1129,
+		"method":"GET",
+		"url":"uxip.meizu.com/lighttps?ef=QIvIHyetvSV6rLO799Z19lZmgs%2FYBayzxxP8X17vWuQjh7NjJGiwlAZhDbcESsthx1VAIWLTmp%2F66%2FgGB97hAkzoo61Umtv%2B2I5dviuDwjTc9Nk0T9wu3zorj4vzr5xmG3qjEjI%2BdUS9i%2BWwy1l4n8xcrHA4z%2BfB%2BrsYOAtlrpPvfUZaPakPOAKJ%2FMJ%2FS9YlaNBJs9WZ3Nkt37gwGuSIQg%3D%3D",
+		"header":{
+			"x-s-key":"V1:8IW93H4ymDLoIFmupn7Mhl7L70QJ8zv16Dqkql/StyE=",
+			"charset":"UTF-8",
+			"content-length":"1216",
+			"host":"uxip.meizu.com",
+			"connection":"keep-alive",
+			"content-type":"multipart/form-data; boundary=******--212x89--",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"ef":"QIvIHyetvSV6rLO799Z19lZmgs%2FYBayzxxP8X17vWuQjh7NjJGiwlAZhDbcESsthx1VAIWLTmp%2F66%2FgGB97hAkzoo61Umtv%2B2I5dviuDwjTc9Nk0T9wu3zorj4vzr5xmG3qjEjI%2BdUS9i%2BWwy1l4n8xcrHA4z%2BfB%2BrsYOAtlrpPvfUZaPakPOAKJ%2FMJ%2FS9YlaNBJs9WZ3Nkt37gwGuSIQg%3D%3D"
+		},
+		"bodyParams":{
+			"'��\u001C;\u001F*�2Hrsso�+\u00136�90�%0~\u0007�9\t)�y@�F���8^Q�\u007FUh�G�h�kي�\u0003ݧۏ�N�km���<��e�aFO�\"|X���\b;\u0015��`�y+�J����-�\u001Bh�����\u000B\u007F\u0017�u��� Θ\u000BM��V��<�X\u0001/:�]�s6\u001F\u0000�tӵ�9�А�M�J�;����\u001Ao\n�\u0010���D��?�}���$KJJ�a���\u0012\u0010�wp ���!�容��P�GU�nHˈ�?�kd�UH\u0016�I\b�8\u0002��\u001D��`cM\n�\t\u00000�1��V�+#��|�F+�����柺�E�?+zR�R0n$�n�v\u00179�j\u0014[\nD�\u0016dZr\u0005@f �\u0003\u0004'�m�Q�F�>#͂�O��\u0003���\u001A��νS���\u007F�p\u0019����+�Ղ�H��Z�K�F\u0007��\u0018e\u0004�F\u0017��\u000By��\u000E�i�l\u001B�\rn�/���DN\u0006�\u0004���8ѱ\r�)g�y͑�Ó�F_`~��":"B�b4�U�4��v�~,F{�\u0016\u001E#��1��]�-z�x�\u0018���E\u0001�;����\u000E\u000B\u0002{������9\u0012�c�C��\u001D���r?*�ļ���\u0019�G\u0015�!ޕ��ߒ�\u0001����y�\u000E*G!�}�\u0002'mt�d?",
+			"��������\u0000��]��b\u0017���Q\u0018�9�vUZ�7�\u0006U�\u0010�\u00076�-�\t��\u0015!�J\u0010�\u0001�V'�>�Y�\u001Fa#\"qV":"]�\u000Eʎs1������ʥ��a�"
+		}
+	},
+	{
+		"number":1190,
+		"method":"GET",
+		"url":" sqimg.qq.com/expert_qq/cloud/612c158fa40b94aa2303c8739cdc9609.mp4?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"range":" bytes=1495040-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; 1505-A01 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	},
+	{
+		"number":1709,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1824773855/651573606-2475971270-F3E058E6F3348EB0D8A9630A28900FE9/198?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":1714,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1374397782/651573606-2384521188-3FF12781DBA3136634925EF55BC65E5C/198?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":1715,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1824773855/651573606-2633088370-BD899C60C2AD52970D461997236C8333/198?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":1758,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/406402725/651573606-3099271942-4C3F3099D33040BD02CB5F6386076193/198?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":1759,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1824773855/651573606-2475971270-F3E058E6F3348EB0D8A9630A28900FE9/0?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":1804,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/406402725/651573606-3099271942-4C3F3099D33040BD02CB5F6386076193/0?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":2011,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1824773855/651573606-2633088370-BD899C60C2AD52970D461997236C8333/0?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	},
+	{
+		"number":2024,
+		"method":"GET",
+		"url":" 123.151.152.66/gchatpic_new/1374397782/651573606-2384521188-3FF12781DBA3136634925EF55BC65E5C/0?mType=picGd&vuin=2515186154&term=2",
+		"header":{
+			"host":" 123.151.152.66",
+			"range":" bytes=0-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"vuin":"2515186154",
+			"term":"2",
+			"mType":"picGd"
+		}
+	}
+]

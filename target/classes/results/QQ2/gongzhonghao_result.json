@@ -1,0 +1,307 @@
+[
+	{
+		"number":8,
+		"method":"GET",
+		"url":"sngmta.qq.com:80/mstat/report//?index=1503474663",
+		"header":{
+			"content-length":"328",
+			"content-encoding":"rc4",
+			"host":"sngmta.qq.com:80",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip"
+		},
+		"urlParams":{
+			"index":"1503474663"
+		},
+		"bodyParams":{
+			")Ɠ���\u007F�<y(辷��\u001C�d��j�d5~�҆�賝�9G`�ֵ|\u000F�\u0013)!B":"��-���\u000F�`_\u0010�\u0015\u001F\u0016�qp>\u0010\u000F�\u0017�ƙ�Z\u0012\u0010���#��ġ�\"�?�1\u0014}\u0002��@���$�T��_3��\u000FȤ���Jw��X��ZVݢ\u0015ڰ:2"
+		}
+	},
+	{
+		"number":23,
+		"method":"GET",
+		"url":"lbs.map.qq.com/loc?c=1&mars=1&obs=1",
+		"header":{
+			"x-tx-host":"lbs.map.qq.com",
+			"content-length":"474",
+			"halley-sdk":"sdk:1.6.4.1101key:DFA65DC3E381FF46AF087BC10C655DB7-0",
+			"host":"lbs.map.qq.com",
+			"content-type":"application/x-www-form-urlencoded",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/1.6.0 (Linux; U; Android 4.4; Nexus 5 Build/KRT16M)"
+		},
+		"urlParams":{
+			"obs":"1",
+			"c":"1",
+			"mars":"1"
+		},
+		"bodyParams":{
+			"�S�1q�3ӑ�j�":"\u0007����ɮR\f�3\u0001��\u0016�\u0012J5�߳�5qM\u0014\u001ETt\u0005Q\n�K�Ȍ��"
+		}
+	},
+	{
+		"number":53,
+		"method":"GET",
+		"url":" 183.3.234.212/g?b=qq&k=B7X3nibzeGH8VZvKictkB7HA&s=140&mType=QQHeadIcon&t=1503474850404",
+		"header":{
+			"host":" 183.3.234.212",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850404",
+			"k":"B7X3nibzeGH8VZvKictkB7HA",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":66,
+		"method":"GET",
+		"url":" 183.3.234.212/g?b=qq&k=B7X3nibzeGH8VZvKictkB7HA&s=140&mType=QQHeadIcon&t=1503474850404",
+		"header":{
+			"host":" 183.3.234.212",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850404",
+			"k":"B7X3nibzeGH8VZvKictkB7HA",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":75,
+		"method":"GET",
+		"url":" 183.3.234.212/g?b=qq&k=MrERibVEfx7SiarZs9HTMKQw&s=140&mType=QQHeadIcon&t=1503474850556",
+		"header":{
+			"host":" 183.3.234.212",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850556",
+			"k":"MrERibVEfx7SiarZs9HTMKQw",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":89,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=ZStMosP0ib2SBKTTj9Libq6w&s=140&mType=QQHeadIcon&t=1503474850621",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850621",
+			"k":"ZStMosP0ib2SBKTTj9Libq6w",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":92,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=LqK8lsqoYpVNRKQo6mBFOw&s=140&mType=QQHeadIcon&t=1503474850627",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850627",
+			"k":"LqK8lsqoYpVNRKQo6mBFOw",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":95,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=NpNEYxZ6QQaQUBVxGKibbKQ&s=140&mType=QQHeadIcon&t=1503474850638",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850638",
+			"k":"NpNEYxZ6QQaQUBVxGKibbKQ",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":98,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=ibicAtM4K8OBbtJnfr5jghdg&s=140&mType=QQHeadIcon&t=1503474850642",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850642",
+			"k":"ibicAtM4K8OBbtJnfr5jghdg",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":153,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=F5Td0Hr6cdqKZRuh2cGiaHQ&s=140&mType=QQHeadIcon&t=1503474850814",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474850814",
+			"k":"F5Td0Hr6cdqKZRuh2cGiaHQ",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":173,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=Oibp7F0GK54SnibRAJa1QqLw&s=140&mType=QQHeadIcon&t=1503474863550",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474863550",
+			"k":"Oibp7F0GK54SnibRAJa1QqLw",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":185,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=KeoZYGCicCvT2aibdTVF6Z8g&s=140&mType=QQHeadIcon&t=1503474863612",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474863612",
+			"k":"KeoZYGCicCvT2aibdTVF6Z8g",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":205,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=Oibp7F0GK54SnibRAJa1QqLw&s=140&mType=QQHeadIcon&t=1503474868484",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474868484",
+			"k":"Oibp7F0GK54SnibRAJa1QqLw",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":212,
+		"method":"GET",
+		"url":" 14.17.57.182/g?b=qq&k=Oibp7F0GK54SnibRAJa1QqLw&s=140&mType=QQHeadIcon&t=1503474868484",
+		"header":{
+			"host":" 14.17.57.182",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"140",
+			"t":"1503474868484",
+			"k":"Oibp7F0GK54SnibRAJa1QqLw",
+			"mType":"QQHeadIcon"
+		}
+	},
+	{
+		"number":233,
+		"method":"GET",
+		"url":" q.qlogo.cn/g?b=qq&k=Oibp7F0GK54SnibRAJa1QqLw&s=0&mType=friendlist",
+		"header":{
+			"host":" q.qlogo.cn",
+			"connection":" Keep-Alive"
+		},
+		"urlParams":{
+			"b":"qq",
+			"s":"0",
+			"k":"Oibp7F0GK54SnibRAJa1QqLw",
+			"mType":"friendlist"
+		}
+	},
+	{
+		"number":312,
+		"method":"GET",
+		"url":" 123.151.71.152/cgi-bin/httpconn?htcmd=0x6ff0080&u=http%3A%2F%2Funi.mp.qq.com%2Farticle%3Fid%3D76fc0698-849f-11e6-b995-febeb7d5839d%26school_id%3D200787379%26_wv%3D1&wap=3&qq-pf-to=mqq.c2c",
+		"header":{
+			"host":" 123.151.71.152",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"htcmd":"0x6ff0080",
+			"u":"http%3A%2F%2Funi.mp.qq.com%2Farticle%3Fid%3D76fc0698-849f-11e6-b995-febeb7d5839d%26school_id%3D200787379%26_wv%3D1",
+			"wap":"3",
+			"qq-pf-to":"mqq.c2c"
+		}
+	},
+	{
+		"number":334,
+		"method":"GET",
+		"url":" c2cpicdw.qpic.cn/offpic_new/3341868637//a17cc84b-ade6-4092-8f12-c864454ff121/0?vuin=3341868637&term=1&srvver=&mType=Other",
+		"header":{
+			"host":" c2cpicdw.qpic.cn",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 7.0; MI 5 MIUI/7.8.18)"
+		},
+		"urlParams":{
+			"vuin":"3341868637",
+			"term":"1",
+			"mType":"Other"
+		}
+	}
+]

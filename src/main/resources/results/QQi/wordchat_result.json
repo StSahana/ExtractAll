@@ -1,0 +1,67 @@
+[
+	{
+		"number":94,
+		"method":"GET",
+		"url":"shouji.sogou.com/web_ime/mobile.php?durtot=0&h=862514038245244&r=android_oem_meizu_open&v=2.1&fc=0",
+		"header":{
+			"content-length":"60",
+			"host":"shouji.sogou.com",
+			"connection":"Keep-Alive"
+		},
+		"urlParams":{
+			"durtot":"0",
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"h":"862514038245244",
+			"fc":"0"
+		},
+		"bodyParams":{
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"h":"862514038245244",
+			"fc":"0 HTTP/1.1\r\nContent-Length: 60\r\nHost: shouji.sogou.com\r\nConnection: Keep-Alive\r\n\r\n<\u0000\u0007\u0000\u0000\u0000\u0001\u0001\n4242424244",
+			"\u0000\u0005\u0000pl\u0004\u0000�\u0000}\u0000wl\u0004\u0000ё��ol\u0004\u0000�\u0000i\u0000vl\u0004\u0000K{��Ss\u0000\u0000IPOST /web_ime/mobile.php?durtot":"0"
+		}
+	},
+	{
+		"number":130,
+		"method":"GET",
+		"url":"shouji.sogou.com/web_ime/mobile.php?durtot=0&h=862514038245244&r=android_oem_meizu_open&v=2.1&fc=0",
+		"header":{
+			"content-length":"62",
+			"host":"shouji.sogou.com",
+			"connection":"Keep-Alive"
+		},
+		"urlParams":{
+			"durtot":"0",
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"h":"862514038245244",
+			"fc":"0"
+		},
+		"bodyParams":{
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"\u0000\u0005\u0000pl\u0004\u0000�\u0000}\u0000wl\u0004\u0000ё��ol\u0004\u0000�\u0000i\u0000vl\u0004\u0000K{��Ss\u0000\u0000MPOST /web_ime/mobile.php?durtot":"0",
+			"h":"862514038245244",
+			"fc":"0 HTTP/1.1\r\nContent-Length: 62\r\nHost: shouji.sogou.com\r\nConnection: Keep-Alive\r\n\r\n>\u0000\u0007\u0000\u0000\u0000\u0001\u0001\f424242424242"
+		}
+	},
+	{
+		"number":139,
+		"method":"GET",
+		"url":"shouji.sogou.com/web_ime/mobile.php?durtot=0&h=862514038245244&r=android_oem_meizu_open&v=2.1&fc=1",
+		"header":{
+			"content-length":"62",
+			"host":"shouji.sogou.com",
+			"connection":"Keep-Alive"
+		},
+		"urlParams":{
+			"durtot":"0",
+			"r":"android_oem_meizu_open",
+			"v":"2.1",
+			"h":"862514038245244",
+			"fc":"1"
+		}
+	}
+]

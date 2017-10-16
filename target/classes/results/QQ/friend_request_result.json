@@ -1,0 +1,17 @@
+[
+	{
+		"number":24,
+		"method":"GET",
+		"url":" 14.17.42.35/stranger/yKjIiauGAaatTLVsyfquMpLbPv0CZlXx2/140?mType=QQHeadIcon&t=1502951192072",
+		"header":{
+			"host":" 14.17.42.35",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"t":"1502951192072",
+			"mType":"QQHeadIcon"
+		}
+	}
+]

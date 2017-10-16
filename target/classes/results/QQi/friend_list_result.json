@@ -1,0 +1,25 @@
+[
+	{
+		"number":11,
+		"method":"GET",
+		"url":"uxip.meizu.com/lighttps?ef=O9ARU4TBjaH468X6RCl91ATxnl1VoLyZgF66638YDHczGc%2B1PCExTwUiWxQm7%2FJF%2BBzXrbq1wKZtCMWDQrAl0PSmpMxJhCM8c7ghHeRb31agxezfqVxglYM4VEG9zua46D2Rt73QOLJqA9VKVlTUU2mSexKfSX%2BZhA5mcUBHCE5UzrrWuZti5ijQV2hx6qRHLREtmK46F3WZgzULCuaLmA%3D%3D",
+		"header":{
+			"x-s-key":"V1:CI/X8DxTtoRQqq8ORSyUW17L70QJ8zv16Dqkql/StyE=",
+			"charset":"UTF-8",
+			"content-length":"928",
+			"host":"uxip.meizu.com",
+			"connection":"keep-alive",
+			"content-type":"multipart/form-data; boundary=******--212x89--",
+			"accept-encoding":"gzip",
+			"user-agent":"Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"ef":"O9ARU4TBjaH468X6RCl91ATxnl1VoLyZgF66638YDHczGc%2B1PCExTwUiWxQm7%2FJF%2BBzXrbq1wKZtCMWDQrAl0PSmpMxJhCM8c7ghHeRb31agxezfqVxglYM4VEG9zua46D2Rt73QOLJqA9VKVlTUU2mSexKfSX%2BZhA5mcUBHCE5UzrrWuZti5ijQV2hx6qRHLREtmK46F3WZgzULCuaLmA%3D%3D"
+		},
+		"bodyParams":{
+			"��.\u0005\u001B\u0016�c9���":"�Ǧ����u$\u007F7����q��oM[휭$|>H:����{��eg���3���K��)�q�j�ƒQ�;��\u0012�\n9uD��-?_��b�7����)��m��Iƛ� ����r�",
+			"O\u0016\u0019�5W�X�L�9(���]ڲ\u001B52���\u000E�yF�Kt�\u000BBM\u0014�K�~E�_�-\u0001�����|S\u0018w��f�P,2րY�H>p\u0004�\u001D˴���":" j\u001A��A9�\u0000��\r�L�\u0002\f����s��C\u001F������\u0016�\u0007bK�",
+			"��\u0004\u0018\u000B%�Z\\�|J�3���׿�\r\b]\u0000(�\u0005{꼕�i��#5\tíxi��_9vX\u0014N\u0019�������5O��":"��ݲ!N|�X�����\u000EկWŽ\\�a\u0011�9/ҡ�_\u000F�XN�j�ng�(�Hݹf\u0002ѼU���:�\u0017ո��\u00121.\u0000�}"
+		}
+	}
+]

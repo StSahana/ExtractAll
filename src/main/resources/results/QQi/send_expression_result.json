@@ -1,0 +1,16 @@
+[
+	{
+		"number":45,
+		"method":"GET",
+		"url":"strategy.beacon.qq.com/analytics/upload",
+		"header":{
+			"content-length":"374",
+			"host":"strategy.beacon.qq.com",
+			"connection":"Keep-Alive",
+			"wup_version":"3.0"
+		},
+		"bodyParams":{
+			"�����ؓ�\u0003x.>��\u0004>�� Ԡ\u0017�a`f`\u0006��d�;>;��{�{�\u0017���\"�}��8��/|}\u001A��\u0000E�C�e\u0000�뫻\fԜ_^�AJ\u0018�D�\u0002\u0019����v�OIF��6(Yn_���Y�~dZ��y;�\u0004Ƶ{r���ύ\u0011ZH���,π�c�t�!/�*Sʭ��b�56�k\n\u0001\"g�H\rl\u0002�!T��\u001Aһ�rmO����[��d��PK":"\r3:�,�\u0002x�Dʄ\b�\\���cC�\u001E\u000E_ߒ��\u0007PK\u0007\b(����\u0000\u0000\u0000\u001C\u0001\u0000\u0000PK\u0001\u0002\u0014\u0000\u0014\u0000\b\b\b\u0000�S\rK(����\u0000\u0000\u0000\u001C\u0001\u0000\u0000\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000zipPK\u0005\u0006\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u00001\u0000\u0000\u0000/\u0001\u0000\u0000\u0000\u0000"
+		}
+	}
+]

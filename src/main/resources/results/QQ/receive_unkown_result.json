@@ -1,0 +1,176 @@
+[
+	{
+		"number":22,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=75fe6e83b1ee661f&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"464",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		},
+		"bodyParams":{
+			"�1S�7������\u0005i���\u001D��\r`��� Ȋ;����\f\b�m�\u0011ˉ��6�\u0013�7$\u001EB�\n�\u007F�K�g�\n�^����L\fVҰ":"\u0013�Q�C\u00017\r�\u0015+��ڿffc!��\n�T���\u001B��\u007F�Y#3�}���A<��HpL\u0010Ѕ��\u001B��~P��0\\��b� @��e!���\u001E���d��ʱ�T�\u0016}+�YC%e%O�j(M\b�zHjDq�����\n�O�\u000Blj�WH��NЮH@�\u0011\be��>��\u0091\u0019\u001B"
+		}
+	},
+	{
+		"number":33,
+		"method":"GET",
+		"url":"aeventlog.beacon.qq.com:8080/analytics/upload?mType=beacon?rid=0305e1d669a9f79d&sid=c93924fc9f02bf8b90e6a520602e1fc5",
+		"header":{
+			"bea_key":"IT7SA23SB+wvOrm26EL77DtFeXEK6aoJxesRjQVD6Y9+fgtmiiUiZaXiRz40A4kylu9N3ASjUliB3EF9X0FxVlXVKsWZaqkWUckDLk6m1UQNLndh8C1vLd2wYbfeSPfvggeknpn8FsC7ZJL8aAaM975DY1i+WPrFL1X8uXjHKH4=",
+			"content-length":"576",
+			"encr_type":"rsapost",
+			"host":"aeventlog.beacon.qq.com:8080",
+			"connection":"Keep-Alive",
+			"type_compress":"2",
+			"wup_version":"3.0"
+		},
+		"urlParams":{
+			"mType":"beacon?rid",
+			"sid":"c93924fc9f02bf8b90e6a520602e1fc5"
+		}
+	},
+	{
+		"number":53,
+		"method":"GET",
+		"url":" 123.151.76.25/qqdownload?ver=537051684&rkey=3081f00201010481e83081e5020101020100020495eab1ea0481a633303531303230313030303433363330333430323031303030323034366363336436646630323033376131336635303230343163346339373762303230343539393532633734303431303561343265626237336265303366666538363163636231393061366563386564303230333761316166643032303130303034313430303030303030383636363936633635373437393730363530303030303030343331333033303331020459952c7404280000000866696c657479706500000004313030310000000b646f776e656e637279707400000001300400&filetype=1001&videotype=1&subvideotype=0&term=android&mType=videoCd",
+		"header":{
+			"host":" 123.151.76.25",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"filetype":"1001",
+			"ver":"537051684",
+			"videotype":"1",
+			"subvideotype":"0",
+			"rkey":"3081f00201010481e83081e5020101020100020495eab1ea0481a633303531303230313030303433363330333430323031303030323034366363336436646630323033376131336635303230343163346339373762303230343539393532633734303431303561343265626237336265303366666538363163636231393061366563386564303230333761316166643032303130303034313430303030303030383636363936633635373437393730363530303030303030343331333033303331020459952c7404280000000866696c657479706500000004313030310000000b646f776e656e637279707400000001300400",
+			"term":"android",
+			"mType":"videoCd"
+		}
+	},
+	{
+		"number":522,
+		"method":"GET",
+		"url":" 123.151.76.119/qqdownload?ver=537051684&rkey=3081f00201010481e83081e5020101020100020495eab1ea0481a633303531303230313030303433363330333430323031303030323034366363336436646630323033376131336635303230343163346339373762303230343539393532633734303431303561343265626237336265303366666538363163636231393061366563386564303230333761316166643032303130303034313430303030303030383636363936633635373437393730363530303030303030343331333033303331020459952c7504280000000866696c657479706500000004313030320000000b646f776e656e637279707400000001300400&filetype=1002&videotype=1&subvideotype=0&term=android&mType=videoCd",
+		"header":{
+			"host":" 123.151.76.119",
+			"connection":" Keep-Alive",
+			"accept-encoding":" identity",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"filetype":"1002",
+			"ver":"537051684",
+			"videotype":"1",
+			"subvideotype":"0",
+			"rkey":"3081f00201010481e83081e5020101020100020495eab1ea0481a633303531303230313030303433363330333430323031303030323034366363336436646630323033376131336635303230343163346339373762303230343539393532633734303431303561343265626237336265303366666538363163636231393061366563386564303230333761316166643032303130303034313430303030303030383636363936633635373437393730363530303030303030343331333033303331020459952c7504280000000866696c657479706500000004313030320000000b646f776e656e637279707400000001300400",
+			"term":"android",
+			"mType":"videoCd"
+		}
+	},
+	{
+		"number":593,
+		"method":"GET",
+		"url":" wxconf.video.qq.com/getmfomat?platform=aphone&appver=V1.0.188.0006&player_channel_id=188&otype=json&ipflag=1&guid=123",
+		"header":{
+			"host":" wxconf.video.qq.com",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; M5 Build/MRA58K)"
+		},
+		"urlParams":{
+			"ipflag":"1",
+			"appver":"V1.0.188.0006",
+			"guid":"123",
+			"otype":"json",
+			"player_channel_id":"188",
+			"platform":"aphone"
+		}
+	},
+	{
+		"number":611,
+		"method":"GET",
+		"url":"m.irs01.com/rec/se?_iwt_t=i&sv=2",
+		"header":{
+			"content-length":"799",
+			"host":"m.irs01.com",
+			"content-type":"application/x-www-form-urlencoded",
+			"connection":"Keep-Alive",
+			"user-agent":"Apache-HttpClient/UNAVAILABLE (java 1.4)"
+		},
+		"urlParams":{
+			"sv":"2",
+			"_iwt_t":"i"
+		},
+		"bodyParams":{
+			"p":"c59d142ca1f42c23",
+			"msg":"8xm8hqtlhCc1EUd-rni1BZ3xjR7vw0vlBTKP-lfmymk8rdBhniZnPW_aJ9KviMl4agTYvdGIvkdANqngEu2eCFjB9U3hrVO-VpkUPLqLytRoF67EOOhQBl2bN8sZ2KRHsA9QqgZS5MGBbiJj2OAMvVEWJLZfBt5c_2zvFeWNos00PsPsCwG6IqT3qA5SRoAD9hSMeHbWXFdbC6XgwjDY51ziKvXIXsjVIT2FEcoLEa94pjuCnPQaoiigzR8WX2nRYGRElJvJB7f3ZwrH65hHayVbkbd6aE94c3MCsuNShyhz9l57BjIggCHO0Z_Ywo1aN1jnW2VDQsYCJltkDe3Fec4-CrW2G7p5ycELw09-gWW5Dh3bD6x9ks56MFLYopabj4VubeuwrhazPtABNrq6k38ROgTR0mghBP_MQ4fSiXEC1T07hE-TBsz4JK6koDqutEe0fzzIoHPUS2Z_xazlJylwxW3jUTdqZwBjwe0cc9XSn8wfq6EOMI_0s5C42X7X-AJa1gpEyNtzSMkV6D4dfJeQIz6tL43_OL3gVUiIX$ei-Iw1x1K0Sdww2yBPVlO_EYmfRLMR1uJe4d3OOyepKcoLkmrQJ9rymjtX1oOkP42occKwEJlCx0ikioBotAsvZLkantZafNefuhFNbmOe7yL3qQ_jvixoFqndDPhdEl-Vgk-YjLgU8SmNO99S0Q2GOePk2wjyfP-Hq2YbS6aAVm6f_Dl7Set4OQeYVEjzLh6xU2f-B0CnwrCssdARNitQ",
+			"etype":"2"
+		}
+	},
+	{
+		"number":625,
+		"method":"GET",
+		"url":"pingma.qq.com:80/mstat/report/?index=1502940218",
+		"header":{
+			"content-length":"404",
+			"content-encoding":"rc4,gzip",
+			"host":"pingma.qq.com:80",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip"
+		},
+		"urlParams":{
+			"index":"1502940218"
+		},
+		"bodyParams":{
+			"��W���\u0002$ct�\u000B��u@��\u0001h�'���ڧ\ni��\u001C���!���w�I��|+$�y��xH\u0013d�QS;�\u0015J�~���\u0011\u0002nb������ijq�,\u001C�A\r������c6�X���N+�^�0<�!�\u0014���R.�N�\u0000\u001D�\u001Be\u0014h9�A4\u0000���\u0004\u0014��\u0019?,�֔�H\b҇ժ�\u0013�":"*\u0001m��0"
+		}
+	},
+	{
+		"number":633,
+		"method":"GET",
+		"url":"pingma.qq.com:80/mstat/report/?index=1502940219",
+		"header":{
+			"content-length":"784",
+			"content-encoding":"rc4,gzip",
+			"host":"pingma.qq.com:80",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip"
+		},
+		"urlParams":{
+			"index":"1502940219"
+		},
+		"bodyParams":{
+			"��XY.�94Zë\\`�q�~��\u001E�O�4q":"`�C�4k\b�E\b\\cZ�r�\u0018�^�0\u001C\u0004o�\u001A\f.�[${��h���2ߑ\u0017M�u}7K�U#\u0019\u0003`E�\u0002�Sɩ,#\u0004N�V�#�\u001E�D\u000E�e\u0001�ޚ-��Xn�\u000Fi���X\\+���$0!}\u001E�\u0004\u001C�IA��l�r��\u0006IRڇ1<�m6\u0004\u0015�J}J'�\\�@�\u000E�\n{M�#(<\u0006�\u0003��N\u0012\u001C�Q����\u001B|D\tm�r���\u0001�@\u0019���g\u0015a\b'b�~Ƣ��_�ܞvU�\u0017\u001B9L���h�e�EG\u0013����ie\u001EƘ\u000Bx���\u0003��/��\u0014\u0010t%:����}�*¿l\u0015/�!\u0007�\u007F*\t#��\u0018C��\u0012x\u0002��5\u0018�·�q9ɁS����$�.v�{����\\:�鄯\u0013m��% Q�\u0019\u0013\\��h�V�w�S���N�ЎX}��}�!貇@�7�[L�V��Da4���'t�����[���Q����\u0017��\u0007\u0010�qӍ��j�(\u0010ɘ}�v��+\u0011\u000B���kq�q\u0012M�k��9\u0002\u001B\t$\u0019\u0013Z�y�B�\u0004��y��-�?As���;�ZG\u000F\n\\Nu<�8\u001B\u001C6���u��ҍ\boC�3M\u0012���"
+		}
+	},
+	{
+		"number":637,
+		"method":"GET",
+		"url":"pingma.qq.com:80/mstat/report/?index=1502940220",
+		"header":{
+			"content-length":"785",
+			"content-encoding":"rc4,gzip",
+			"host":"pingma.qq.com:80",
+			"connection":"Keep-Alive",
+			"accept-encoding":"gzip"
+		},
+		"urlParams":{
+			"index":"1502940220"
+		},
+		"bodyParams":{
+			"�Z\u000BIR�f�\u001A>�q.K�\u0018M\u0006������\b�z}\\��\u0016N����p�\u001A���\u0005�u1��{$��XY.�9�]«\\`�q�~�)\u001D�O�4q":"@�Ã;+(��\u000F\\cZ�p���~�М�l�\u001E\f��K${�����[\u000Eߑ\u0016M�\u0015}7K�U#�CpE�\u0002�S�)��c��#�@{Y��/�/���)L�{��O\u000Fi�$�X\\3��$0�]\u001E�\u0004\u001C7IA��l�r��\u001E�ڰ*]J6�m",
+			"�p'��$��\u001Cq \u0003M\u0001�\u0000�\u0005\fl�Ͳ�w''K��\u0006�\u0018b�͘u�$�/\u001E�jp����\u0012%\u007F�\u0006���\u0001d��\u000E�צ(��^@>L|��\u0004���o��n�\rsY��.\r1\u000B��\u0013����$��\u0011�D�;`/{I'ˏ~:JT���zP\"\u0002\r\u000F�8����:VZ��\u0019\u0010E\u0016���\u0000֓O�ЦoY�\u000E�;�s��^r雵4u�-��\td":"���I\u0096����_��\u0017�\u001E��1[{|\u0002�uԙ5uR\u001802%S@�\u0001?�Jݡ�Dz�����\u001F}\"�ݍ\u0000`�P�{b��\b�>.�꘻\b-Cf/�\u007F�G�}��$\u0000�\u0007�֊�$8*�\u000E`�\\����ݏ�Z�{�Zz^l���Ҡ��0x�M�PR{�f�K�"
+		}
+	}
+]

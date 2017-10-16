@@ -1,0 +1,17 @@
+[
+	{
+		"number":29,
+		"method":"GET",
+		"url":" sqimg.qq.com/expert_qq/cloud/612c158fa40b94aa2303c8739cdc9609.mp4?mType=Other",
+		"header":{
+			"host":" sqimg.qq.com",
+			"range":" bytes=2027520-",
+			"connection":" Keep-Alive",
+			"accept-encoding":" gzip",
+			"user-agent":" Dalvik/2.1.0 (Linux; U; Android 6.0; 1505-A01 Build/MRA58K)"
+		},
+		"urlParams":{
+			"mType":"Other"
+		}
+	}
+]

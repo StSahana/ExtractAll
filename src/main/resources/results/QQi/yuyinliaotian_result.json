@@ -1,0 +1,30 @@
+[
+	{
+		"number":17,
+		"method":"GET",
+		"url":"strategy.beacon.qq.com/analytics/upload",
+		"header":{
+			"content-length":"374",
+			"host":"strategy.beacon.qq.com",
+			"connection":"Keep-Alive",
+			"wup_version":"3.0"
+		},
+		"bodyParams":{
+			"PK\u0003\u0004\u0014\u0000\b\b\b\u0000*V\u0011K\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000zipe��J\u00031\u001C�\u0013?\u0016�{�A�\t":"崄\u007F>6�-\u0006��\nBEPz�ݤ\u0010�\u000F�K"
+		}
+	},
+	{
+		"number":1091,
+		"method":"GET",
+		"url":"strategy.beacon.qq.com/analytics/upload",
+		"header":{
+			"content-length":"374",
+			"host":"strategy.beacon.qq.com",
+			"connection":"Keep-Alive",
+			"wup_version":"3.0"
+		},
+		"bodyParams":{
+			"PK\u0003\u0004\u0014\u0000\b\b\b\u00007V\u0011K\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000zipe��J\u00031\u001C�\u0013?\u0016�{�A�\t":"崄\u007F>6�-\u0006��\nBEPz�ݤ\u0010�\u000F�K"
+		}
+	}
+]
